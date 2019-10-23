@@ -19,7 +19,7 @@ public class PruebaGithub {
         System.out.println("Hola!");
         System.out.println("Línea añadida!");
         System.out.println("jkababkcasibcuais");
-        System.out.println("conexion Edison");
+        System.out.println("conexion nueva base");
     }
     
 }
